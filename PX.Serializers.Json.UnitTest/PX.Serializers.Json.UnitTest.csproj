@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PXSerializers.Json\PX.Serializers.Json.csproj" />
+    <ProjectReference Include="..\PX.Serializers.Json\PX.Serializers.Json.csproj" />
   </ItemGroup>
 
 </Project>
