@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PXSerializers.Json", "PXSerializers.Json\PXSerializers.Json.csproj", "{873C92FE-167C-4977-B0BC-78E81E302F52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PX.Serializers.Json", "PXSerializers.Json\PX.Serializers.Json.csproj", "{873C92FE-167C-4977-B0BC-78E81E302F52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PXSerializers.Json.UnitTest", "PXSerializers.Json.UnitTest\PXSerializers.Json.UnitTest.csproj", "{26ADF645-54B3-45CA-A7DD-D8B6F8E2C0F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PX.Serializers.Json.UnitTest", "PXSerializers.Json.UnitTest\PX.Serializers.Json.UnitTest.csproj", "{26ADF645-54B3-45CA-A7DD-D8B6F8E2C0F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
