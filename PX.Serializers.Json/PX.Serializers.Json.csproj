@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="PCAxis.Query" Version="1.0.1" />
+    <PackageReference Include="PCAxis.Query" Version="1.0.3" />
   </ItemGroup>
 
   <ItemGroup>
